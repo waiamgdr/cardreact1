@@ -47,7 +47,7 @@ const App = () => {
            <Image  produit={produit} ></Image>
      
            </div>
-  {/* Création une carte contenant tous les composants créés à l'aide de React-bootstrap  */}
+  {/* Création une carte contenant tous les composants créés à l'aide de React-bootstrap . */}
            <Card style={{ width: 500 }}>
       <Card.Img variant="top" src={produit.image} />
       <Card.Body>
