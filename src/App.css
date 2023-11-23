@@ -1,0 +1,33 @@
+
+
+.info {
+  background-color: #282c34;
+  display: flex;
+
+  padding:20px ;
+  color: white;
+ 
+  
+}
+
+.iro{ width:700px ;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  margin-top: 20px;
+}
+
+img{ width:400px ;
+  padding:20px;
+ 
+}
+.alert{
+  width:1500px;
+  color: white;
+}
+
+ .alert img {
+  width:300px
+ }
+ 
+
